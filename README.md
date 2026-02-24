@@ -100,7 +100,8 @@ ESP32-based **audio monitoring system** with real-time capture, Azure upload, an
 | **[Digital_Design](https://github.com/Navnofficial/Digital_Design)**<br/><sub>Collection of digital design projects — combinational & sequential circuits for VLSI coursework</sub> | `Verilog` `VLSI` | 2025 |
 | **[nvm-industrial-monitor](https://github.com/Navnofficial/nvm-industrial-monitor)**<br/><sub>Verilog-based real-time industrial hardware monitoring system</sub> | `Verilog` | 2025 |
 | **[Mento-Band](https://github.com/Navnofficial/Mento-Band)**<br/><sub>AI wearable · biosignal monitoring for sports injury prediction & performance</sub> | `IoT` `AI` | 2025 |
-| **[IoT-Projects](https://github.com/Navnofficial/IoT-Projects)**<br/><sub>ESP32 & Raspberry Pi IoT experiments — sensors, cloud integration & edge analytics</sub> | `Python` `IoT` | 2024 |
+| **[Muscle_Sync](https://github.com/Navnofficial/Muscle_Sync)**<br/><sub>MuscleSync is an IoT project that captures EMG (Electromyography) muscle electrical signals through a surface electrode sensor, processes them on an Arduino microcontroller, and maps the classified gesture states to real-time keyboard inputs on a connected PC </sub> | `Python` `IoT` | 2024 |
+| **[Sky_Fi](https://github.com/Navnofficial/Sky-Fi)**<br/><sub>Sky-Fi is a Wi-Fi controlled FPV (First Person View) RC airplane powered by an ESP32 microcontroller </sub> | `Python` `IoT` | 2024 |
 | **[PCB-Design](https://github.com/Navnofficial/PCB-Design)**<br/><sub>Schematics and layouts bridging digital logic to physical hardware</sub> | `EasyEDA` | 2025 |
 | **[Pi-Flutter-SSH](https://github.com/Navnofficial/Integrating-Pi-With-Flutter-Over-SSH)**<br/><sub>Flutter app controlling Pi live-stream + audio analysis over SSH</sub> | `Dart` `Flutter` | 2025 |
 | **[Microprocessor](https://github.com/Navnofficial/Microprocessor)**<br/><sub>8085 / 8086 assembly programs and interfacing experiments</sub> | `Assembly` | 2025 |
