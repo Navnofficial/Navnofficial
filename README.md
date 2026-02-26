@@ -20,8 +20,7 @@
 
 ```
   B.E. Electronics Engineering · VLSI Design & Technology
-  Rajalakshmi Institute of Technology, Chennai   ·   CGPA 8.79   ·   2023–2027
-  Student Ambassador — Center of IoT @ RIT   ·   he / him
+  Rajalakshmi Institute of Technology, Chennai   ·   CGPA 8.76   ·   2023–2027    ·   he 
 ```
 
 </div>
